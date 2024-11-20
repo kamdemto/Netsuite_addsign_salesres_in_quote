@@ -87,10 +87,10 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## **Contact**
 For questions or suggestions, please contact:  
-**Your Name** IAMKTO 
+**Your Name** Olivier KAMDEM | Iam Kto 
 **Email:** contact@ktocrea.com 
 **GitHub:** [kamdemto]
-(https://github.com/imakto)
+(https://github.com/kamdemto)
 
 ---
 
